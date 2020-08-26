@@ -18,8 +18,8 @@ For the server to run, one will need to upload the indexp.html file to the ESP82
 
 ## ScreenShots  
 
-![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor/blob/master/images/IMG-20190419-WA0007.jpg)  
-![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor/blob/master/images/IMG-20190421-WA0052.jpg)  
-![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor/blob/master/images/IMG-20190421-WA0055.jpg)  
-![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor/blob/master/images/IMG-20190421-WA0054.jpg)  
-![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor/blob/master/images/IMG-20190421-WA0053.jpg)  
+![NodeMCU](https://github.com/AtulKUchil/LaptopBatteryMonitor-LBM-/blob/master/images/IMG-20190419-WA0007.jpg)  
+![website](https://github.com/AtulKUchil/LaptopBatteryMonitor-LBM-/blob/master/images/IMG-20190421-WA0052.jpg)  
+![website](https://github.com/AtulKUchil/LaptopBatteryMonitor-LBM-/blob/master/images/IMG-20190421-WA0055.jpg)  
+![website](https://github.com/AtulKUchil/LaptopBatteryMonitor-LBM-/blob/master/images/IMG-20190421-WA0054.jpg)  
+![website](https://github.com/AtulKUchil/LaptopBatteryMonitor-LBM-/blob/master/images/IMG-20190421-WA0053.jpg)  
